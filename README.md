@@ -4,7 +4,7 @@ I’m a software engineering student, currently taking the Software Maintenance 
 
 Fun fact: I got Chinese bloodline🩸
 
-![Image that describe me]()
+![Image that describe me](afiqnadzmi.jpg)
 
 ## GitHub Profile
 Link [here](https://github.com/afiqnadzmii)
